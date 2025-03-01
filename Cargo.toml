@@ -1,0 +1,10 @@
+[package]
+name = "rime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+rime-api = { version = "0.12.2", path = "/home/kyle/coding/rime/librime-rs" }
+serde_json = "1.0.139"
+tokio = { version = "1.43.0", features = ["tokio-macros", "rt-multi-thread", "fs", "sync", "rt", "macros", "time", "net", "io-util"] }
