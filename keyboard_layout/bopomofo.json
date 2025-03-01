@@ -1,0 +1,57 @@
+{
+    "inherits" : "en_US",
+    "alphabetic": [
+        [
+            {"default": ["ㄅ"], "shifted": ["ㄅ"]},
+            {"default": ["ㄉ"], "shifted": ["ㄉ"]},
+            {"default": ["ˇ"], "shifted": ["ˇ"]},
+            {"default": ["ˋ"], "shifted": ["ˋ"]},
+            {"default": ["ㄓ"], "shifted": ["ㄓ"]},
+            {"default": ["ˊ"], "shifted": ["ˊ"]},
+            {"default": ["˙"], "shifted": ["˙"]},
+            {"default": ["ㄚ"], "shifted": ["ㄚ"]},
+            {"default": ["ㄞ"], "shifted": ["ㄞ"]},
+            {"default": ["ㄢ"], "shifted": ["ㄢ"]},
+            {"default": ["ㄦ"], "shifted": ["ㄦ"]}
+        ],
+        [
+            {"default": ["ㄆ"], "shifted": ["ㄆ"]},
+            {"default": ["ㄊ"], "shifted": ["ㄊ"]},
+            {"default": ["ㄍ"], "shifted": ["ㄍ"]},
+            {"default": ["ㄐ"], "shifted": ["ㄐ"]},
+            {"default": ["ㄔ"], "shifted": ["ㄔ"]},
+            {"default": ["ㄗ"], "shifted": ["ㄗ"]},
+            {"default": ["ㄧ"], "shifted": ["ㄧ"]},
+            {"default": ["ㄛ"], "shifted": ["ㄛ"]},
+            {"default": ["ㄟ"], "shifted": ["ㄟ"]},
+            {"default": ["ㄣ"], "shifted": ["ㄣ"]},
+            {"default": ["_"], "shifted": ["_"]}
+        ],
+        [
+            {"default": ["ㄇ"], "shifted": ["ㄇ"]},
+            {"default": ["ㄋ"], "shifted": ["ㄋ"]},
+            {"default": ["ㄎ"], "shifted": ["ㄎ"]},
+            {"default": ["ㄑ"], "shifted": ["ㄑ"]},
+            {"default": ["ㄕ"], "shifted": ["ㄕ"]},
+            {"default": ["ㄘ"], "shifted": ["ㄘ"]},
+            {"default": ["ㄨ"], "shifted": ["ㄨ"]},
+            {"default": ["ㄜ"], "shifted": ["ㄜ"]},
+            {"default": ["ㄠ"], "shifted": ["ㄠ"]},
+            {"default": ["ㄤ"], "shifted": ["ㄤ"]},
+            {"default": ["_"], "shifted": ["_"]}
+        ],
+        [
+            {"default": ["ㄈ"], "shifted": ["ㄈ"]},
+            {"default": ["ㄌ"], "shifted": ["ㄌ"]},
+            {"default": ["ㄏ"], "shifted": ["ㄏ"]},
+            {"default": ["ㄒ"], "shifted": ["ㄒ"]},
+            {"default": ["ㄖ"], "shifted": ["ㄖ"]},
+            {"default": ["ㄙ"], "shifted": ["ㄙ"]},
+            {"default": ["ㄩ"], "shifted": ["ㄩ"]},
+            {"default": ["ㄝ"], "shifted": ["ㄝ"]},
+            {"default": ["ㄡ"], "shifted": ["ㄡ"]},
+            {"default": ["ㄥ"], "shifted": ["ㄥ"]},
+            {"special": "backspace", "width": 1}
+        ]
+    ]
+}

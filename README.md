@@ -1,5 +1,5 @@
 # Installation
-1. Compile librime and its dependencies using the remarkable toolchain
+1. Compile librime and its dependencies using the remarkable toolchain; precompiled libraries are provided in the release
 
 2. Copy the following libraries to `/home/root/stuff` on you rmpp tablet.
 
@@ -37,5 +37,13 @@ LD_LIBRARY_PATH=/home/root/stuff /home/root/rime daemon &
 systemctl restart xochitl
 ```
 
+6. Copy the schema files for `iridium_bpmf` to `/home/root/rime-user`(currently you have to change the source code to use other input methods)
+
+7. Copy `bopomofo.json` to `/home/root`, and `keyboard_layout.qrr` to `/home/root/xovi/exthome/qt-resource-rebuilder`
+(you can change where you want to put the json)
+
+8. Change your keyboard language to icelandic.
+
 # Possible Improvements
 -[] uses an xovi inject to avoid installation hassle
+-[] arbitrary input methods
